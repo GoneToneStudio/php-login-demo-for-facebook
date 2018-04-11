@@ -1,10 +1,7 @@
 <?php
 /*
- * 網路假期 - 答案共享資料庫
- * https://netholiday.reh.tw/
- *
- * Developed by 張文相 (Zhang Wenxiang)
- * https://www.facebook.com/GoneToneDY
+ * 張文相 Zhang Wenxiang - 個人 Blog
+ * https://blog.reh.tw/
  */
 session_start();
 @session_destroy();

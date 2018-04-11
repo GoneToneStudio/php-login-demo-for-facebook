@@ -1,4 +1,8 @@
 <?php
+/*
+ * 張文相 Zhang Wenxiang - 個人 Blog
+ * https://blog.reh.tw/
+ */
 if (isset($_SESSION['facebook_access_token'])) {
     $fb->setDefaultAccessToken($_SESSION['facebook_access_token']);
 } else {

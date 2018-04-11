@@ -1,4 +1,8 @@
 <?php
+/*
+ * 張文相 Zhang Wenxiang - 個人 Blog
+ * https://blog.reh.tw/
+ */
 session_start();
 require_once dirname(__FILE__).'/facebook_login/initialization.php'; //引入 Facebook 登入初始設定
 ?>
